@@ -39,9 +39,8 @@ For any inquiries or issues regarding this repository, please feel free to reach
 [GitHub](https://github.com/eshaghi-ms)  
 [LinkedIn](https://www.linkedin.com/in/mohammad-sadegh-eshaghi-89679b240/) 
 
-**Prof. Ph.D. Xiaoying Zhuang**  
-[zhuangiop.uni-hannover.de]
-
+**Prof. Ph.D. Xiaoping Zhuang**  
+[zhuang@iop.uni-hannover.de]  
 [IOP](https://www.iop.uni-hannover.de/de/zhuang)  
 [LinkedIn](https://www.linkedin.com/in/xiaoying-zhuang-5306a073/) 
 
