@@ -15,11 +15,8 @@ Finally, a neural operator has been trained to predict the response of FG porous
 ---
 
 ## Overview:
-The code and database provided in this repository are related to the paper **"DeepNetBeam: A Framework for the Analysis of Functionally Graded Porous Beams"**, which explores the application of various machine learning techniques for the analysis of functionally graded porous beams. This repository includes:
-- The code implementation of the DeepNetBeam framework.
-- Data used for training the neural operators and validating the framework.
-
-The three approaches (PINN, DEM, Neural Operator) are implemented in a modular fashion to allow flexibility and extension for future use.
+The code and database provided in this repository are related to the paper **"DeepNetBeam: A Framework for the Analysis of Functionally Graded Porous Beams"**, which explores the application of various machine learning techniques for the analysis of functionally graded porous beams. 
+The three approaches (PINN, DEM, Neural Operator) are implemented to allow flexibility and extension for future use.
 
 ## Requirements:
 The required packages have been mentioned in each section separately. 
