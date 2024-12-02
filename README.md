@@ -1,6 +1,4 @@
 # DeepNetBeam
-the code will be uploaded after the review process is complete.
-
 
 # Paper Title: 
 DeepNetBeam: A Framework for the Analysis of Functionally Graded Porous Beams
