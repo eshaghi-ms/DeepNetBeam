@@ -13,13 +13,13 @@ The code requires the following packages as imports:
 -	pyevtk
 - 
 For creating database, run the following line:
-
-•	python database/CreateData.py
-
+```bash
+python database/CreateData.py
+```
 After creating or downloading the database, for running the model, execute the following line:
-
-•	python FNO-Beam.py
-
+```bash
+python FNO-Beam.py
+```
 
 
 ## FG Beams with Arbitrary Traction and Porosity Distribution

@@ -12,17 +12,17 @@ The code requires the following packages as imports:
 -	matplotlib
 
 For getting the result for one example run the following line:
-
-•	python Porous_DEM_BC_H-H.py
-
+```bash
+python Porous_DEM_BC_H-H.py
+```
 For creating database, run the following line:
-
-•	python Porous.py
-
+```
+python Porous.py
+```
 After creating database or downloading and extracting it, for drawing figures from the database, run the following code in MATLAB
-
-•	main.m
-
+```bash
+main.m
+```
 
 ## Functionally Graded Porous Beam
 

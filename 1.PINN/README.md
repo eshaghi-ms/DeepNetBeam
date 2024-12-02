@@ -6,10 +6,11 @@ The code requires the following packages as imports:
 -	scipy
 -	geomdl
 
+
 Run the following line:
-
-•	python Cantilever.py
-
+```bash
+python Cantilever.py
+```
 
 ## Cantilever Beam Example
 
