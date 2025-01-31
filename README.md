@@ -48,11 +48,14 @@ For any inquiries or issues regarding this repository, please feel free to reach
 If you use this code in your research, please cite the following paper:
 
 ```bibtex
-@article{eshaghi2024Deepnetbeam,
-  title={Deepnetbeam: A Framework for the Analysis of Functionally Graded Porous Beams},
-  author={Es-haghi, Mohammad Sadegh and Bamdad, Mostafa and Anitescu, Cosmin and Wang, Yizheng and Zhuang, Xiaoying and Rabczuk, Timon},
-  journal={.......}
-  year={2024}
+@article{eshaghi2025applications,
+  title={Applications of scientific machine learning for the analysis of functionally graded porous beams},
+  author={Eshaghi, Mohammad Sadegh and Bamdad, Mostafa and Anitescu, Cosmin and Wang, Yizheng and Zhuang, Xiaoying and Rabczuk, Timon},
+  journal={Neurocomputing},
+  volume={619},
+  pages={129119},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
  
