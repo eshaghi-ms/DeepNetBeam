@@ -1,5 +1,5 @@
 # DeepNetBeam (DNB)
-This repository contains the code and database associated with the paper "[Applications of scientific machine learning for the analysis of functionally graded porous beams]([.......](https://www.sciencedirect.com/science/article/pii/S0925231224018903?via%3Dihub))".
+This repository contains the code and database associated with the paper "[Applications of scientific machine learning for the analysis of functionally graded porous beams](https://www.sciencedirect.com/science/article/pii/S0925231224018903?via%3Dihub)".
 
 ## Paper Title:
 **[Applications of scientific machine learning for the analysis of functionally graded porous beams](https://www.sciencedirect.com/science/article/pii/S0925231224018903?via%3Dihub)**
